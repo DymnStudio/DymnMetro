@@ -57,13 +57,29 @@ A highly customizable Metro / Windows Phone inspired Android launcher featuring 
 
 ---
 
-# 🎥 Demo
+## 🎬 Demo
 
-<p align="center">
-<img src="assets/demo.gif" width="320">
-</p>
+### 🏠 Home Screen
+
+![Home Screen](assets/gifs/home-demo.gif)
 
 ---
+
+### 📱 App Drawer
+
+![App Drawer](assets/gifs/app-drawer-demo.gif)
+
+---
+
+### ⚙️ Settings & Personalization
+
+![Settings](assets/gifs/settings-demo.gif)
+
+---
+
+### 🧩 Widgets
+
+![Widgets](assets/gifs/widgets-demo.gif)
 
 # 📱 Screenshots
 
