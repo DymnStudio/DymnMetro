@@ -77,7 +77,7 @@ A highly customizable Metro / Windows Phone inspired Android launcher featuring 
 
 ---
 
-### 🧩 Widgets
+### 🧩 Personalization
 
 ![Widgets](assets/gifs/widgets-demo.gif)
 
