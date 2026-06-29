@@ -65,7 +65,7 @@ A highly customizable Metro / Windows Phone inspired Android launcher featuring 
 
 ---
 
-### 📱 App Drawer
+### 📱 Edit Menu
 
 ![App Drawer](assets/gifs/app-drawer-demo.gif)
 
