@@ -1,7 +1,7 @@
 # Metro Launcher 🟦
 
 <p align="center">
-  <img src="assets/logo.png" width="150">
+  <img src="assets/logo/logo.png" width="150">
 </p>
 
 <h1 align="center">Metro Launcher</h1>
